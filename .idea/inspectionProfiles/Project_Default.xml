@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="lightning" />
+            <item index="1" class="java.lang.String" itemvalue="albumentations" />
+            <item index="2" class="java.lang.String" itemvalue="ftfy" />
+            <item index="3" class="java.lang.String" itemvalue="transformers" />
+            <item index="4" class="java.lang.String" itemvalue="regex" />
+            <item index="5" class="java.lang.String" itemvalue="timm" />
+            <item index="6" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="7" class="java.lang.String" itemvalue="numpy" />
+            <item index="8" class="java.lang.String" itemvalue="einops" />
+            <item index="9" class="java.lang.String" itemvalue="ttach" />
+            <item index="10" class="java.lang.String" itemvalue="addict" />
+            <item index="11" class="java.lang.String" itemvalue="tqdm" />
+            <item index="12" class="java.lang.String" itemvalue="catalyst" />
+            <item index="13" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="14" class="java.lang.String" itemvalue="imagecorruptions" />
+            <item index="15" class="java.lang.String" itemvalue="emoji" />
+            <item index="16" class="java.lang.String" itemvalue="cython" />
+            <item index="17" class="java.lang.String" itemvalue="fairscale" />
+            <item index="18" class="java.lang.String" itemvalue="cityscapesscripts" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
