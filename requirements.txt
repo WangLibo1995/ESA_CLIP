@@ -1,0 +1,15 @@
+timm
+transformers
+lightning
+albumentations
+ttach
+numpy
+tqdm
+matplotlib
+einops
+addict
+ftfy
+regex
+open_clip_torch
+torchmetrics
+scikit-learn
